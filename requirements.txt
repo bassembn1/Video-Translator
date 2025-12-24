@@ -1,0 +1,6 @@
+whisper==1.1.10
+openai-whisper==20231117
+googletrans==4.0.0-rc1
+pysrt==1.1.2
+translate==3.6.1
+ffmpeg-python==0.2.0
